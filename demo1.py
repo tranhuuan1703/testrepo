@@ -1,5 +1,5 @@
-def hello_member(member, age):
-  return "Hello member: " + member + " Age: " + age
+def hello_member(name, age):
+  return "Hello member: " + name + " Age: " + age
 
 
 print(hello_member("Tran Huu An", 22))
